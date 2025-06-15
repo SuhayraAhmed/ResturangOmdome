@@ -1,0 +1,6 @@
+@ResturangOmdome_HostAddress = http://localhost:5150/scalar
+
+GET http://localhost:5150/api/restauranger/search
+Accept: application/json
+
+###
